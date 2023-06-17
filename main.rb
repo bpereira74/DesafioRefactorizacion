@@ -60,7 +60,6 @@ puts Second_person
 Second_person.talk
 Second_person.introduce
 
-
 Third_person = Student.new('Barbara', 'Pereira', 35)
 puts Third_person
 Third_person.talk
